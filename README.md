@@ -4,17 +4,17 @@
 
 
 
-## :pushpin: O​penCore Version: 0.6.8
+### :pushpin: O​penCore Version: 0.6.8
 
-## :pushpin: ​MacOS Big Sur 11.2.3 Build 20D91
+### :pushpin: ​MacOS Big Sur 11.2.3 Build 20D91
 
 
 
-## :book: ​Guide Link: [Dortania's](https://dortania.github.io/OpenCore-Install-Guide/)
+### :book: ​Guide Link: [Dortania's](https://dortania.github.io/OpenCore-Install-Guide/)
 
-## :point_down: Support me here!
+### :point_down: Support me here!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H146AUD)
 
 
 ###  :mag_right: Specifications 
